@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="127335330">
+    <data-source source="LOCAL" name="Rails lti_provider: staging" uuid="be1a1939-08d0-422a-ac59-041eb9768fb8">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/zulama_staging</jdbc-url>
+      <user-name>zulama</user-name>
+      <user-password>dfd0dfdfdfc6dfcbdfc7dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine31/jdbc-drivers/postgresql-9.0-801.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails lti_provider: development" uuid="1a54b590-04d4-49dd-b690-a10829a14302">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/zulama_production</jdbc-url>
+      <user-name>zulama</user-name>
+      <user-password>dfd0dfdfdfc6dfcbdfc7dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine31/jdbc-drivers/postgresql-9.0-801.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails lti_provider: test" uuid="387d3480-4415-4b3a-a26f-1ba3d4a963d4">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/zulama_test</jdbc-url>
+      <user-name>zulama</user-name>
+      <user-password>dfd0dfdfdfc6dfcbdfc7dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine31/jdbc-drivers/postgresql-9.0-801.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+    <data-source source="LOCAL" name="Rails lti_provider: production" uuid="173998aa-32a9-4c52-b25c-d4c9f6718cda">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1/zulama</jdbc-url>
+      <user-name>zulama</user-name>
+      <user-password>dfd0dfdfdfc6dfcbdfc7dfcb</user-password>
+      <libraries>
+        <library>
+          <url>file://$USER_HOME$/Library/Preferences/RubyMine31/jdbc-drivers/postgresql-9.0-801.jdbc4.jar</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
